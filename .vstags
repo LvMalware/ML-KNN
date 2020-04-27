@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+KNN	KNN.pm	1;"	p
+KNN::Element	KNN/Element.pm	1;"	p
+KNN::Element::data	KNN/Element.pm	27;"	s
+KNN::Element::from_string	KNN/Element.pm	43;"	s
+KNN::Element::get_distance	KNN/Element.pm	36;"	s
+KNN::Element::name	KNN/Element.pm	20;"	s
+KNN::Element::new	KNN/Element.pm	9;"	s
+KNN::Element::to_string	KNN/Element.pm	52;"	s
+KNN::classify	KNN.pm	38;"	s
+KNN::load_dataset	KNN.pm	23;"	s
+KNN::new	KNN.pm	12;"	s
+classify	KNN.pm	38;"	s
+data	KNN/Element.pm	27;"	s
+from_string	KNN/Element.pm	43;"	s
+get_distance	KNN/Element.pm	36;"	s
+load_dataset	KNN.pm	23;"	s
+name	KNN/Element.pm	20;"	s
+new	KNN.pm	12;"	s
+new	KNN/Element.pm	9;"	s
+to_string	KNN/Element.pm	52;"	s
